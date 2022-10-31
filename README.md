@@ -20,6 +20,7 @@ A aplicação possuí:**
 # Como inicializar o projeto:
 
 1. No seu terminal acesse o repositório do projeto;
-2. digite npm start;
-3. Após digitar o comando acima uma nova janela do seu navagador será aberta com o 
+2. digite npm install;
+3. digite npm start;
+4. Após digitar o comando acima uma nova janela do seu navagador será aberta com o 
 projeto em execução. :sparkles:	
