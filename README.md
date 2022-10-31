@@ -22,5 +22,5 @@ A aplicação possuí:**
 1. No seu terminal acesse o repositório do projeto;
 2. digite npm install;
 3. digite npm start;
-4. Após digitar o comando acima uma nova janela do seu navagador será aberta com o 
+4. Após digitar o comando acima uma nova janela do seu navegador será aberta com o 
 projeto em execução. :sparkles:	
